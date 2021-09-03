@@ -1,0 +1,2 @@
+html{font-family:Arial}body{margin:0}.container{width:100%}.counter{align-items:center}.counter,.counter-btn-wrap{display:flex;flex-direction:column}.counter__btn{width:150px;height:50px;margin-bottom:20px;font-size:20px;border-radius:10px;background-color:green;border:none;cursor:pointer;transition:background-color .3s ease}.counter__btn:hover{background-color:#00b300}
+/*# sourceMappingURL=main.7ba6fb09.chunk.css.map */
